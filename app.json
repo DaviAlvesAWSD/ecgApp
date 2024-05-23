@@ -2,6 +2,7 @@
   "expo": {
     "name": "EcgAppp",
     "slug": "EcgAppp",
+    "displayName": "EcgAppp",
     "version": "1.0.2",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -29,6 +30,7 @@
       "eas": {
         "projectId": "1ddd204f-0c16-4ca8-8135-d95f49662fed"
       }
-    }
+    },
+    "owner": "iotecgproject"
   }
 }
